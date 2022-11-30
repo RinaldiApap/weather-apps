@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(227, 227, 227, 0.745);
+}
+nav {
+    border-bottom: 2px solid cornflowerblue;
+}
+/* bg rgba */
+
+.bg-w {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+/* button */
+.btn-up {
+    z-index: 100;
+}
+.btn-search {
+    border-radius: 0px 100px 100px 0px;
+    width: 70px;
+}
+/* input */
+.isearch {
+    border-radius: 100px 0px 0px 100px !important;
+    height: 3em;
+}
